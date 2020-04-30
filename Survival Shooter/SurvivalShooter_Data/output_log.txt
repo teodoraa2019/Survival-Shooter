@@ -1,0 +1,61 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 505 (ID=0x5a84)
+    Vendor:   Intel
+    VRAM:     1112 MB
+    Driver:   26.20.100.7263
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.745 seconds
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\teodo\Desktop\git - projekti\Survival-Shooter\Survival Shooter\SurvivalShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.959200 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4fc -> priority: 1 
+  Thread -> id: 2e2c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.565601 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 1.076700 ms (FindLiveObjects: 0.163500 ms CreateObjectMapping: 0.101900 ms MarkObjects: 0.768000 ms  DeleteObjects: 0.041200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.171400 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 1.185200 ms (FindLiveObjects: 0.201000 ms CreateObjectMapping: 0.061100 ms MarkObjects: 0.874700 ms  DeleteObjects: 0.045700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.098599 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.870600 ms (FindLiveObjects: 0.131800 ms CreateObjectMapping: 0.065400 ms MarkObjects: 0.623500 ms  DeleteObjects: 0.047900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.402000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 0.984100 ms (FindLiveObjects: 0.145600 ms CreateObjectMapping: 0.066600 ms MarkObjects: 0.706800 ms  DeleteObjects: 0.063000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.461400 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 816.
+Total: 1.089600 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.097900 ms MarkObjects: 0.772200 ms  DeleteObjects: 0.049100 ms)
+
